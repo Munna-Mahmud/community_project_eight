@@ -1,0 +1,48 @@
+/* CARD IMAGES STYLE  */
+.members img{
+    height: 150px;
+    width: 150px;
+    border-radius : 50%;
+    margin-top: 5px;
+    text-align: center;
+}
+/* SINGLE MEMBERS CARD STYLING  */
+.members{
+    border: 2px solid #1e83d6;
+    width: 100%;
+    margin-top: 20px;
+    border-radius : 60px 0px 60px 60px;
+    padding: 40px 40px 20px 15px;
+    background-image: linear-gradient(to right top, #291a26, #2e1d2e, #332136, #37253f, #3a2949, #3a2b4c, #3a2e4f, #3a3052, #39314f, #38314b, #383248, #373244);
+    transition: transform 1.1s;
+  
+}
+.members:hover{
+    transform: scale(1.1); 
+}
+/* SINGLE MEMBERS TEXT STYLE  */
+.members-details{
+    text-align: left;
+    margin-top: 20px;
+    line-height: 20px;
+    color: #fff;
+    font-family:  Verdana, Geneva, Tahoma, ;
+}
+ .members h5{
+    padding: 5px 40px;
+    color: rgb(96, 241, 115);
+    font-weight: 700;
+}
+ /* ADD MEMBERS BUTTON STYLE  */
+.add-btn{
+    background-color: rgb(65, 243, 89);
+    color: black;
+    font-weight: 500;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.action-btn{
+    text-align: center;
+    margin-top: 20px;
+   
+}

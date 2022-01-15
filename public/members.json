@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "balance":772.06,
+      "picture": "https://avatars.githubusercontent.com/u/26?v=4",
+      "age": 25,
+      "name": "Mark Jobs",
+      "gender": "male",
+      "location": "United Kingdom",
+      "email": "alverto@gology.com",
+      "phone": "+01578-378"
+
+    },
+    {
+      "id": 2,
+      "balance":834.09,
+      "picture": "https://avatars.githubusercontent.com/u/6?v=4",
+      "age": 35,
+      "name": "Lord Mithun",
+      "gender": "male",
+      "location": "London",
+      "email": "mithun@email.com",
+      "phone": "+91572-378"
+
+    },
+    {
+      "id": 3,
+      "balance":967.26,
+      "picture": "https://avatars.githubusercontent.com/u/20?v=4",
+      "age": 20,
+      "name": "Munna Mahmud",
+      "gender": "male",
+      "location": "Bangladesh",
+      "email": "munna@gmail.com",
+      "phone": "+41578-388"
+
+    },
+    {
+      "id": 4,
+      "balance": 452.23,
+      "picture": "https://avatars.githubusercontent.com/u/1?v=4",
+      "age": 24,
+      "name": "Tommoy Ahmed",
+      "gender": "male",
+      "location": "Japan",
+      "email": "takio23@colaire.com",
+      "phone": "+661 83-407"
+   
+    },
+    {
+      "id": 5,
+      "balance": 278.76,
+      "picture": "https://avatars.githubusercontent.com/u/2?v=4",
+      "age": 38,
+      "name": "Jack Smith",
+      "gender": "male",
+      "location": "China",
+      "email": "jack76@bristo.com",
+      "phone": "+1325-2682"
+    
+    },
+    {
+      "id": 6,
+      "balance": 972.06,
+      "picture": "https://avatars.githubusercontent.com/u/3?v=4",
+      "age": 39,
+      "name": "Stive Smith",
+      "gender": "male",
+      "location": "America",
+      "email": "smith@yeahao.com",
+      "phone": "+01584-2953"
+      
+    },
+    {
+      "id": 7,
+      "balance": 682.06,
+      "picture": "https://avatars.githubusercontent.com/u/48?v=4",
+      "age": 35,
+      "name": "Rubel Hasan",
+      "gender": "male",
+      "location": "South Africa",
+      "email": "Rubel@Email.com",
+      "phone": "+233-3506"
+     
+    },
+    {
+      "id": 8,
+      "balance": 234.89,
+      "picture": "https://avatars.githubusercontent.com/u/23?v=4",
+      "age": 36,
+      "name": "Gallen maxwell",
+      "gender": "male",
+      "location": "Australia",
+      "email": "maxwell@gmail.com",
+      "phone": "+1345-3033"
+   
+    }
+  ]

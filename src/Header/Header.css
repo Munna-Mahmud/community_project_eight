@@ -1,0 +1,11 @@
+.header-container{
+   box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.43); 
+    padding: 10px;
+    margin-top: 10px;
+    background-image: linear-gradient(to right top, #291a26, #2e1d2e, #332136, #37253f, #3a2949, #3a2b4c, #3a2e4f, #3a3052, #39314f, #38314b, #383248, #373244);
+    color: white;
+    border-radius : 60px 0px 60px 60px;
+}
+.header-container .header-text{
+    color:  rgb(96, 241, 115);
+}

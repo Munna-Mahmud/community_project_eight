@@ -1,0 +1,38 @@
+/* card style for row and columns  */
+.community-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 30px; 
+}
+.members-container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+}
+
+.cart-container{
+    margin-left: 20px;
+    margin-top: 20px; 
+    border-radius : 60px 0px 60px 60px;
+    background-image: linear-gradient(to right top, #271b21, #3d2f3e, #4f475f, #586283, #5880a5, #5490b2, #519fbd, #51afc5, #55b2c2, #5bb5be, #63b8ba, #6bbbb6);
+   
+}
+
+/* card text style  */
+.cart-text{
+   text-align: left;
+   margin-left: 15px;
+   font-weight: 600;
+   color: white;
+}
+
+/* button  style */
+.cart-text button{
+background-color: rgb(89, 243, 109);
+color: black;
+ padding: 5px 30px 5px 30px;
+ margin-left: 6rem;
+ border-radius: 5px;
+ margin-bottom: 10px;
+ font-weight: 500;;
+}
